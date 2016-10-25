@@ -11,7 +11,7 @@ N. Shimizu (nshimizu@mozilla-japan.org)
 * Convince you to think Rust is awesome :p
 * Topics
    * Fundamental syntax
-   * Owenership and move semantics
+   * Ownership and move semantics
    * Reference and borrowing
 * Implement simple cat and grep command  
 
